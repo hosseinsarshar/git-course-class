@@ -3,3 +3,4 @@ Git_Tutorial.ipynb
 /tests/__pycache__
 /assets
 *.csv
+/.pytest_cache
