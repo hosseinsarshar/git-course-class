@@ -1,4 +1,5 @@
 /.ipynb_checkpoints
 Git_Tutorial.ipynb
+/tests/__pycache__
 /assets
 *.csv
