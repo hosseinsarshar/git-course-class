@@ -10,7 +10,7 @@
 Extra steps:
 1. Create a new feature branch from master
 1. Add a new failed test function within the tests\unit_test.py 
-  1. E.g. assert 1==2
+i. E.g. assert 1==2
 1. Create a new Pull Request to the master branch
 1. Check how the pipeline fails with the new failed test
 
