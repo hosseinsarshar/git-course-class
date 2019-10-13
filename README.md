@@ -1,3 +1,5 @@
+[![Build status](https://dev.azure.com/azurefreecredit/inclass-failed-pipeline/_apis/build/status/inclass-failed-pipeline-test)](https://dev.azure.com/azurefreecredit/inclass-failed-pipeline/_build/latest?definitionId=8)
+
 # git-course-class
 
 1. Fork this repo into your GitHub account
@@ -6,7 +8,7 @@
 1. Apply a change
 1. Create a Pull Request to the master branch
 1. Check how the pipeline is kick-off and if it's successful
-1. Add the Build Pipeline Badge to the ReadMe file
+1. Change the Build Pipeline Badge with yours
 
 Extra steps:
 1. Create a new feature branch from master
