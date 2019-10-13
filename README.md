@@ -6,6 +6,7 @@
 1. Apply a change
 1. Create a Pull Request to the master branch
 1. Check how the pipeline is kick-off and if it's successful
+1. Add the Build Pipeline Badge to the ReadMe file
 
 Extra steps:
 1. Create a new feature branch from master
