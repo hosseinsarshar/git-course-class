@@ -16,3 +16,5 @@ Extra steps:
     1. E.g. assert 1==2
 1. Create a new Pull Request to the master branch
 1. Check how the pipeline fails with the new failed test
+
+[![Build status](https://dev.azure.com/ledionanishani/test-in-class-1/_apis/build/status/test-in-class-1-Python%20package-CI)](https://dev.azure.com/ledionanishani/test-in-class-1/_build/latest?definitionId=2)
