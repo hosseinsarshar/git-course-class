@@ -10,6 +10,7 @@ For full MLOps guide, please check my other repo focusing on building [CI/CD pip
 
 To learn about building reproducible experiments, please check my other repo focusing on building [building reproducible experiments](https://github.com/classicboyir/exp-repro).
 
+### How to use this repo:
 1. Fork this repo into your GitHub account
 1. Create a new build pipeline on Azure DevOps for Pull Request and connect it to your remote repo
 1. Create a new branch
