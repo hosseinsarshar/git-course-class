@@ -7,6 +7,7 @@ This repo is built by Hossein Sarshar for the [AISC MLOps Workshop](https://www.
 The aim is to provide a step to step guide to the main concepts of Git necessary for every data scientist.
 
 For full MLOps guide, please check my other repo focusing on building [CI/CD pipeline for you ML workloads](https://github.com/classicboyir/build-release-ci-cd).
+
 To learn about building reproducible experiments, please check my other repo focusing on building [building reproducible experiments](https://github.com/classicboyir/exp-repro).
 
 1. Fork this repo into your GitHub account
